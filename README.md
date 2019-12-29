@@ -4,7 +4,7 @@ This repository is part of the directed research carried out on the Master in Fi
 
 The repository contains five notebooks which are leading to the final results:
 
-1. dataset preparation notebook (prep_datasets)
+1. dataset preparation notebook (prep_datasets)<br />
 This notebook contains necessary steps in order to prepare the dataset for the models.
 
 2. feature engineering notebook (feature_eng)
