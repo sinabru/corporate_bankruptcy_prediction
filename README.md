@@ -1,6 +1,6 @@
 # Corporate Bankruptcy Prediction: A Comparison of Logistic Regression and Random Forest on Portuguese Company Data
 
-This repository is part of the directed research carried out on the Master in Finance Program presented as part o the requirements for the Award of a Master Degree in Finance from the NOVA - School of Business and Economics
+This repository contributes to the Work Project presented as part o the requirements for the Award of a Master's degree in Finance from the Nova - School of Business and Economics
 
 The repository contains five notebooks which are leading to the final results:
 
